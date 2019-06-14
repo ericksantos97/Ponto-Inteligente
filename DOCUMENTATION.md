@@ -26,4 +26,4 @@ Angular Material.
 <h3>1. Rodando o projeto frontend</h3>
 
 1. Instalar o Node JS
-1. Acesse o diretório aonde encontra-se localizado o projeto e utilize o comando npm start
+1. Acesse o diretório aonde encontra-se localizado o projeto e utilize o comando npm start dentro de um terminal (CMD,GitBash)
